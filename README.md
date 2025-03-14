@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on GHG calculator
+# 🔭 I’m currently working on GHG calculator
 - 🌱 I’m currently learning JavaScript, Html, and CSS
 - 👯 I’m looking to collaborate on Software development projects
 - 🤔 I’m looking for help with learning Javascript
