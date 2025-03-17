@@ -1,5 +1,5 @@
-## Hello my  name is Brianna
-
+## Hello I'm Brianna
+Welcome to my page. I'm currently an environmental scientist with a diverse skill, and seeking opportunities to enhance these skills. 
 <!--
 **bgreen39/bgreen39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
