@@ -1,5 +1,18 @@
 ## Hello I'm Brianna
-Welcome to my page. I'm currently an environmental scientist with a diverse skill, and seeking opportunities to enhance these skills. 
+# About me
+[short snipper]
+# Key Projects
+- Greenhouse Gas Emissions Calculator
+- Quest (video game)
+- Spunk Friend Group App
+# Skills
+-Python
+-Javascript, HTML, CSS
+-MatLab
+
+
+
+
 <!--
 **bgreen39/bgreen39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
