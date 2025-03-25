@@ -1,6 +1,6 @@
 ## Hello I'm Brianna
 # About me
-I've been in the environmental industry for 3 years, and have diverse experiences in different subject matter including: geology, microbiology, data science, and graphic design. Ultimately, I'm a life-long learner and believe in giving life to create projects. 
+I've been in the environmental industry for 3 years, and have experience in different subject matter including: geology, microbiology, data science, and graphic design. Ultimately, I'm a life-long learner and believe in giving life to creative projects. 
 # Key Projects
 - Greenhouse Gas Emissions Calculator
 - Quest (video game)
@@ -9,6 +9,7 @@ I've been in the environmental industry for 3 years, and have diverse experience
 -Python
 -Javascript, HTML, CSS
 -MatLab
+-R
 
 
 
